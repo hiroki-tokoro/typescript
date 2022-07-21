@@ -1,3 +1,1 @@
-((arg) => {
-  console.log('hello ' + arg);
-})('test');
+console.log('hello everyone');
